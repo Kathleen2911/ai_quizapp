@@ -1,59 +1,8 @@
-# flutter_app_quiz
+# Flutter Quiz App
+Diese App ist als fachbereichsspezifische App für den Bereich Angewandte Informatik an der Hochschule Fulda gedacht.
+Sie soll mit Quizfragen als Lernunterstützung dienen und ermöglichen den Studienalltag zu organisieren und zu erleichtern.
+Es handelt sich hierbei um ein studentisches Projekt, bei dem wir mit Flutter erste Erfahrungen in der Android Programmierung sammeln sollten.
 
-A new Flutter application.
-
-
-Hilfestellungen:
-flutter stuio
-panache flutter
-reso coder
-
-Organisation
-Thema:
-Quiz App zum Üben der Lerninhalte
-
-
-1. User Story
-Ich möchte eine Fragen-Kategorie auswählen und dazu eine Frage beantworten können.
-
-- Button
-- Validierung der Frage
---> oncklick-event
-- Navigator Route
-(- timer(animation))
-- counter zur Auswertung (global)
-
-Screens:
-- Modul-Screen (Jana)
-- Kapitel-/Inhalt-Screen (Jana)
-- Fragen-Screen (Kathleen)
-- Feedback-Screen (Kathleen)
-
-2.User Story
-Ich möchte mich anmelden können. Außerdem sollen mir fachbereichsinterne Events angezeigt werden.
-
-- Textfeld
-- Button zur Validierung
-(--> auf Datenbanken zugreifen? Wegen fd-Nummern)
--
-
-Screens:
-- Login-Screen (Jana)
-- Events-Übersicht (Kathleen)
-- Event-Beschreibung (Kathleen)
-
-
-3. User Story
-Ich möchte mehrere Fragen zu verschiedenen Themen beantworten können
-
-- json Datein erweitern (Mildes Idee einbinden?)
---> auf vereinzelte Themen aufbauen, nicht alle
-
-
-TODO's
-
-- Design Module und Kapitel
-- pdf viewer funktioniert nicht in kombi mit url laden
-- persönliche Ergebnisse anzeigen!!!
-- named routes einbauen
-- json mit models verbessern?
+## Hinweis 
+Aktuell  ist der Zugang zu den Foliensätzen nicht möglich (Man gelangt nur zu einem Platzhalter), 
+da wir aufgrund von urheberrechtlichen Gründen diesen Bereich der App noch nicht publizieren können. 
