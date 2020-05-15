@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "946892951813",
+    "firebase_url": "https://quiz-database-38c32.firebaseio.com",
+    "project_id": "quiz-database-38c32",
+    "storage_bucket": "quiz-database-38c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946892951813:android:aba94b4a8298aedbaca76c",
+        "android_client_info": {
+          "package_name": "de.hsfulda.flutter_app_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946892951813-1voua67029a9u93oon8sdf1hu96ek52c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwAp3bLWGNQmlAUnRNIuljMFCdstH8Tb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946892951813-1voua67029a9u93oon8sdf1hu96ek52c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

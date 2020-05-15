@@ -1,0 +1,44 @@
+[
+  {
+    "1": "Event 1",
+    "2": "Event 2",
+    "3": "Event 3",
+    "4": "Event 4",
+    "5": "Event 5s"
+  },
+  {
+    "1": {
+      "1": "Hier stehen Informationen zu Event 1",
+      "2": "Veranstalter",
+      "3": "Veranstaltungsort & Uhrzeit"
+    }
+  },
+  {
+    "2": {
+      "1": "Hier stehen Informationen zu Event 1",
+      "2": "Veranstalter",
+      "3": "Veranstaltungsort & Uhrzeit"
+    }
+  },
+  {
+    "3": {
+      "1": "Hier stehen Informationen zu Event 1",
+      "2": "Veranstalter",
+      "3": "Veranstaltungsort & Uhrzeit"
+    }
+  },
+  {
+    "4": {
+      "1": "Hier stehen Informationen zu Event 1",
+      "2": "Veranstalter",
+      "3": "Veranstaltungsort & Uhrzeit"
+    }
+  },
+  {
+    "5": {
+      "1": "Hier stehen Informationen zu Event 1",
+      "2": "Veranstalter",
+      "3": "Veranstaltungsort & Uhrzeit"
+    }
+  }
+]
