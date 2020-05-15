@@ -6,3 +6,4 @@ Es handelt sich hierbei um ein studentisches Projekt, bei dem wir mit Flutter er
 ## Hinweis 
 Aktuell  ist der Zugang zu den Foliensätzen nicht möglich (Man gelangt nur zu einem Platzhalter), 
 da wir aufgrund von urheberrechtlichen Gründen diesen Bereich der App noch nicht publizieren können. 
+
